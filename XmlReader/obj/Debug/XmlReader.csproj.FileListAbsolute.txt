@@ -1,0 +1,15 @@
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\bin\Debug\XmlReader.exe.config
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\bin\Debug\XmlReader.exe
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\bin\Debug\XmlReader.pdb
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\XmlReader.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\MainWindow.g.cs
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\App.g.cs
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\XmlReader_MarkupCompile.cache
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\XmlReader_MarkupCompile.lref
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\MainWindow.baml
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\XmlReader.g.resources
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\XmlReader.Properties.Resources.resources
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\XmlReader.csproj.GenerateResource.cache
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\XmlReader.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\XmlReader.exe
+C:\Users\Dusan\Documents\Visual Studio 2017\Projects\XmlReader\XmlReader\obj\Debug\XmlReader.pdb
